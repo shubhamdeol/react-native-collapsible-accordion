@@ -1,0 +1,18 @@
+{
+  "name": "react-native-collapsible-accordion",
+  "version": "1.0.0",
+  "description": "This is a accordion for react native, where on click header, the content below it gets collapsed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "accordion",
+    "react-native-collapsible",
+    "collapse",
+    "header"
+  ],
+  "author": "shubham deol",
+  "license": "MIT"
+}
