@@ -1,6 +1,7 @@
 {
   "name": "react-native-collapsible-accordion",
-  "version": "1.0.0",
+  "version": "1.0.3",
+  "url": "https://github.com/shubhamdeol/react-native-collapsible-accordion.git",
   "description": "This is a accordion for react native, where on click header, the content below it gets collapsed.",
   "main": "index.js",
   "scripts": {
@@ -14,5 +15,6 @@
     "header"
   ],
   "author": "shubham deol",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
